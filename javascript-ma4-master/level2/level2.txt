@@ -3,9 +3,9 @@ The DOM is a API for HTML document. it define how the page is structured. When y
 
 List three methods to manipulate the DOM.
 
-*
-*
-*
+* querySelectorAll()
+* createElement()
+* replaceChild()
 What is an asynchronous call?
 
 
